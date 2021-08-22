@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <name>${project.groupId}:${project.artifactId}</name>
   <description>Code samples that accompany the AWS blog post on jsii</description>
-  <url>https://github.com/aws-samples/jsii-code-samples#readme</url>
+  <url>https://github.com/jianweic/jsii-code-samples#readme</url>
   <licenses>
     <license>
       <name>MIT No Attribution</name>
@@ -16,14 +16,15 @@
   </licenses>
   <developers>
     <developer>
+      <name>Chai Jian Wei&lt;jianweic@affinidi.com&gt;</name>
       <roles>
         <role>author</role>
       </roles>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:https://github.com/aws-samples/jsii-code-samples.git</connection>
-    <url>https://github.com/aws-samples/jsii-code-samples.git</url>
+    <connection>scm:git:https://github.com/jianweic/jsii-code-samples.git</connection>
+    <url>https://github.com/jianweic/jsii-code-samples.git</url>
   </scm>
   <groupId>software.aws.jsiisamples.jsii</groupId>
   <artifactId>jsii-code-samples</artifactId>

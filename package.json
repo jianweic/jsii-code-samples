@@ -32,10 +32,10 @@
     }
   },
   "author": {
-    "name": "Hari Pachuveetil <pachuvee@amazon.com>"
+    "name": "Chai Jian Wei <jianweic@affinidi.com>"
   },
   "repository": {
-    "url": "https://github.com/aws-samples/jsii-code-samples.git"
+    "url": "https://github.com/jianweic/jsii-code-samples.git"
   },
   "keywords": [
     "jsii",

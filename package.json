@@ -18,9 +18,9 @@
         "module": "aws_jsiisamples.jsii_code_samples"
       },
       "java": {
-        "package": "software.aws.jsiisamples.jsii",
+        "package": "affinidi.aws.jsiisamples.jsii",
         "maven": {
-          "groupId": "software.aws.jsiisamples.jsii",
+          "groupId": "affinidi.aws.jsiisamples.jsii",
           "artifactId": "jsii-code-samples"
         }
       },
